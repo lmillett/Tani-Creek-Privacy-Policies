@@ -410,6 +410,18 @@
             "id": "manitoba-cartwright"
         },
         {
+            "name": "Clandeboye",
+            "province": "Manitoba",
+            "country": "Canada",
+            "status": "lost",
+            "type": "wooden",
+            "companies": "Manitoba Pool",
+            "lat": 50.24370977631591,
+            "lon": -96.97053599924315,
+            "url": "https://www.grainelevators.ca/manitoba/clandeboye/",
+            "id": "manitoba-clandeboye"
+        },
+        {
             "name": "Churchill",
             "province": "Manitoba",
             "country": "Canada",
@@ -1292,8 +1304,8 @@
             "status": "existing",
             "type": "wooden",
             "companies": "Manitoba Pool",
-            "lat": 50.28889,
-            "lon": -100.92778,
+            "lat": 50.489780466969705,
+            "lon": -100.91464599012888,
             "url": "https://www.grainelevators.ca/manitoba/solsgirth/",
             "id": "manitoba-solsgirth"
         },
@@ -2414,6 +2426,18 @@
             "id": "manitoba-red-river-south"
         },
         {
+            "name": "Regent",
+            "province": "Manitoba",
+            "country": "Canada",
+            "status": "lost",
+            "type": "wooden",
+            "companies": "Manitoba Pool",
+            "lat": 49.341710,
+            "lon": -100.309650,
+            "url": "https://www.grainelevators.ca/manitoba/regent/",
+            "id": "manitoba-regent"
+        },
+        {
             "name": "Reston",
             "province": "Manitoba",
             "country": "Canada",
@@ -2424,6 +2448,18 @@
             "lon": -101.09276,
             "url": "https://www.grainelevators.ca/manitoba/reston/",
             "id": "manitoba-reston"
+        },
+        {
+            "name": "Ridgeville",
+            "province": "Manitoba",
+            "country": "Canada",
+            "status": "lost",
+            "type": "wooden",
+            "companies": "Paterson",
+            "lat": 49.06527198278367,
+            "lon": -97.01297340259924,
+            "url": "https://www.grainelevators.ca/manitoba/ridgeville/",
+            "id": "manitoba-ridgeville"
         },
         {
             "name": "Rignold",
