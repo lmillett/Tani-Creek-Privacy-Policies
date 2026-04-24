@@ -1,5 +1,5 @@
 {
-    "version": 1,
+    "version": 2,
     "elevators": [
         {
             "name": "Agassiz",
@@ -1073,7 +1073,7 @@
             "name": "Niverville",
             "province": "Manitoba",
             "country": "Canada",
-            "status": "lost",
+            "status": "existing",
             "type": "wooden",
             "companies": "Parrish & Heimbecker",
             "lat": 49.60559,
